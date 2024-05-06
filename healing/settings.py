@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-bivi8^=v!a+-jx@++9c2g90r8*r)#tuzj@_1k^$dot0t@rf2&y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
